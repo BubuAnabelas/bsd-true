@@ -1,0 +1,15 @@
+{
+  "name": "bsd-true",
+  "version": "1.0.0",
+  "description": "BSD port of true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BubuAnabelas/bsd-true.git"
+  },
+  "author": "BubuAnabelas",
+  "license": "GPL-3.0"
+}
